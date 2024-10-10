@@ -5,28 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7a94c248-ab09-450b-a1a1-2bee6f84aef2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pl-fantasy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/src/main/java/com/pl/pl_fantasy/PlFantasyApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/src/main/java/com/pl/pl_fantasy/User/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/src/main/java/com/pl/pl_fantasy/User/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/src/main/java/com/pl/pl_fantasy/player/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/src/main/java/com/pl/pl_fantasy/player/PlayerController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/src/main/java/com/pl/pl_fantasy/player/PlayerRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/src/main/java/com/pl/pl_fantasy/player/PlayerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pl-fantasy/src/test/java/com/pl/pl_fantasy/PlFantasyApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +44,7 @@
     "Spring Boot.PlFantasyApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Omar/Downloads/pl-fantasy",
+    "last_opened_file_path": "C:/Users/Omar/Downloads/pl-fantasy/Backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -76,7 +55,6 @@
 }]]></component>
   <component name="RunManager">
     <configuration name="PlFantasyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="pl-fantasy" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.pl.pl_fantasy.PlFantasyApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -111,6 +89,8 @@
       <workItem from="1728400570348" duration="1326000" />
       <workItem from="1728486829520" duration="3426000" />
       <workItem from="1728551663285" duration="1332000" />
+      <workItem from="1728553021618" duration="530000" />
+      <workItem from="1728553573787" duration="163000" />
     </task>
     <servers />
   </component>
